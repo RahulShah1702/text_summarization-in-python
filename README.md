@@ -11,6 +11,8 @@ A Python-based GUI tool that simplifies the summarization of research papers or 
 - **Real-Time Processing**: Instantly processes input text into concise summaries.
 - **Scrollable Instructions**: Clear and detailed steps for usage.
 - **Dynamic Animations**: Enhanced UI with transitions and visual effects.
+## Screenshot
+![Screenshot 2025-01-25 200151](https://github.com/user-attachments/assets/835446f7-fe8d-4b9a-b187-539496f02683)
 
 ## Installation
 
