@@ -119,13 +119,6 @@ A Python-based GUI tool that simplifies the summarization of research papers or 
 - **Scrollable Instructions**: Clear and detailed steps for usage.
 - **Dynamic Animations**: Enhanced UI with transitions and visual effects.
 
-## Demo
-
-![Tool Preview](#)  
-(*Add a screenshot or GIF showing your tool in action.*)
-
----
-
 ## Installation
 
 ### Prerequisites
