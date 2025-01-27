@@ -41,6 +41,11 @@ A Python-based GUI tool that simplifies the summarization of research papers or 
    The Hugging Face `transformers` library will automatically download the required pre-trained models during the first run.
 
 ---
+## Screenshot
+
+15 -! [Screenshot 2025-01-25 200151](https://
+
+github.com/user-attachments/assets/835446f7 -fe8d-4b9a-b187-539496f02683)
 
 ## Libraries Used
 
