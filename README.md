@@ -81,20 +81,6 @@ pip install transformers torch ttkbootstrap pillow
 
 ---
 
-## How to Get Sender Password for Email Functionality
-
-If you're using the email functionality of the tool:
-
-1. Enable **2-Step Verification** for your Google account:
-   - Go to your Google Account Settings → Security → Turn On **2-Step Verification**.
-
-2. Generate an **App Password**:
-   - Go to **App Passwords** → Select the app (`Mail`) and the device → Generate.
-
-3. Use the generated app password as the `sender_password` in the tool.
-
----
-
 ## Contributions
 
 Feel free to contribute to this project by submitting issues or pull requests. Contributions to improve the UI, add features, or enhance performance are welcome!
